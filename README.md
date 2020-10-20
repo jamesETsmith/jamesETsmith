@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi, I'm James 👋
+- :desktop_computer:  Working on: Numerical methods for quantum chemistry/physics
+- 💬 Ask me about: HPC, Scientific Computing
+- 🤔  Curious about: [Julia](https://github.com/JuliaLang/julia), [Intel OneAPI](https://github.com/oneapi-src)
+- :rocket:  [My website](http://jamesetsmith.github.io/)
+
 
 <!--
 **jamesETsmith/jamesETsmith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
