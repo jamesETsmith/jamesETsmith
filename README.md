@@ -1,7 +1,7 @@
 ### Hi, I'm James 👋
 - :desktop_computer:  Working on: Numerical methods for quantum chemistry/physics
-- 💬 Ask me about: HPC, Scientific Computing
-- 🤔  Projects I'm tinkering with/thinking about: [Spack](https://github.com/spack/spack), [Slate](https://bitbucket.org/icl/slate/src/master/), [Julia](https://julialang.org/)
+- 💬 Ask me about: HPC, Scientific Computing, Quantum Chemistry
+- 🤔  Projects I'm tinkering with/thinking about: [Julia](https://julialang.org/), [ITensor](https://github.com/ITensor/ITensors.jl), [Spack](https://github.com/spack/spack), [Slate](https://bitbucket.org/icl/slate/src/master/) 
 - 🌱 I’m looking to collaborate on: C++ linear algebra libraries for sparse matrices and tensors on exascale machines
 - :rocket:  [My website](http://jamesetsmith.github.io/)
 
