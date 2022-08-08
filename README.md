@@ -5,9 +5,10 @@
 - 🌱 I’m looking to collaborate on: C++ linear algebra libraries for sparse matrices and tensors on exascale machines
 - :rocket:  [My website](http://jamesetsmith.github.io/)
 
-<!-- [![James' Github Stats](https://github-readme-stats.vercel.app/api?username=jamesETsmith)](https://github.com/anuraghazra/github-readme-stats)
+[![James' Github Stats](https://github-readme-stats.vercel.app/api?username=jamesETsmith&count_private=1)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamesETsmith&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamesETsmith&count_private=1&hide=html,javascript,scss)](https://github.com/anuraghazra/github-readme-stats) 
+
 
 <!--
 **jamesETsmith/jamesETsmith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
