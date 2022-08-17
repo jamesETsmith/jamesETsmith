@@ -1,7 +1,12 @@
 ### Hi, I'm James 👋
 - :desktop_computer:  Working on: Numerical methods for quantum chemistry/physics
 - 💬 Ask me about: HPC, Scientific Computing, Quantum Chemistry
-- 🤔  Projects I'm tinkering with/thinking about: [Julia](https://julialang.org/), [Cilk](https://github.com/OpenCilk/opencilk-project), a better build system 🤯
+- 🤔  Projects I'm tinkering with/thinking about:
+  - [GraphBLAS](https://graphblas.org/GraphBLAS-Pointers/)
+  - :crab: [Rust](https://www.rust-lang.org/)
+  - [Julia](https://julialang.org/)
+  - [Cilk](https://github.com/OpenCilk/opencilk-project)
+  - A better build system 🤯
 - 🌱 I’m looking to collaborate on: C++ linear algebra libraries for sparse matrices and tensors on exascale machines
 - :rocket:  [My website](http://jamesetsmith.github.io/)
 
