@@ -7,6 +7,7 @@
   - [Julia](https://julialang.org/)
   - [Cilk](https://github.com/OpenCilk/opencilk-project)
   - A better build system 🤯
+  - Test frameworks for combinatorially large test suites.
 - 🌱 I’m looking to collaborate on: C++ linear algebra libraries for sparse matrices and tensors on exascale machines
 - :rocket:  [My website](http://jamesetsmith.github.io/)
 
