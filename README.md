@@ -1,5 +1,5 @@
 ### Hi, I'm James 👋
-- :desktop_computer:  Working on: Numerical methods for quantum chemistry/physics
+- :desktop_computer:  Working on: Highly parallel graph + linear algebra libraries
 - 💬 Ask me about: HPC, Scientific Computing, Quantum Chemistry
 - 🤔  Projects I'm tinkering with/thinking about:
   - [GraphBLAS](https://graphblas.org/GraphBLAS-Pointers/)
@@ -8,7 +8,6 @@
   - [Cilk](https://github.com/OpenCilk/opencilk-project)
   - A better build system 🤯
   - Test frameworks for combinatorially large test suites.
-- 🌱 I’m looking to collaborate on: C++ linear algebra libraries for sparse matrices and tensors on exascale machines
 - :rocket:  [My website](http://jamesetsmith.github.io/)
 
 [![James' Github Stats](https://github-readme-stats.vercel.app/api?username=jamesETsmith&count_private=1)](https://github.com/anuraghazra/github-readme-stats)
