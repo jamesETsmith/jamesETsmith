@@ -10,9 +10,9 @@
   - Test frameworks for combinatorially large test suites.
 - :rocket:  [My website](http://jamesetsmith.github.io/)
 
-[![James' Github Stats](https://github-readme-stats.vercel.app/api?username=jamesETsmith&count_private=1)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamesETsmith&count_private=1&hide=html,javascript,scss,jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats) 
+<!-- [![James' Github Stats](https://github-readme-stats.vercel.app/api?username=jamesETsmith&count_private=1)](https://github.com/anuraghazra/github-readme-stats)
+ -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamesETsmith&count_private=1&hide=html,javascript,scss,jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)  -->
 
 
 <!--
