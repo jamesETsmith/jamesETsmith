@@ -5,7 +5,6 @@
   - [GraphBLAS](https://graphblas.org/GraphBLAS-Pointers/)
   - :crab: [Rust](https://www.rust-lang.org/)
   - [Julia](https://julialang.org/)
-  - [Cilk](https://github.com/OpenCilk/opencilk-project)
   - A better build system 🤯
   - Test frameworks for combinatorially large test suites.
 - :rocket:  [My website](http://jamesetsmith.github.io/)
