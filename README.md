@@ -1,11 +1,11 @@
 ### Hi, I'm James 👋
 - :desktop_computer:  Working on: Highly parallel graph + linear algebra libraries
-- 💬 Ask me about: HPC, Scientific Computing, Quantum Chemistry
+- 💬 Ask me about: High performance computing (HPC), Scientific Computing, Quantum Chemistry
 - 🤔  Projects I'm tinkering with/thinking about:
   - [GraphBLAS](https://graphblas.org/GraphBLAS-Pointers/)
+  - [LAGraph](https://github.com/GraphBLAS/LAGraph/)
   - :crab: [Rust](https://www.rust-lang.org/)
-  - [Julia](https://julialang.org/)
-  - A better build system 🤯
+  - Build systems
   - Test frameworks for combinatorially large test suites.
 - :rocket:  [My website](http://jamesetsmith.github.io/)
 
