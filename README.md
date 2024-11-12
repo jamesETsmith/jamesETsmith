@@ -22,4 +22,8 @@ Hi, I'm James 👋. Currently, I am an HPC Software Engineer at [Qognitive](http
 <a href="https://www.linkedin.com/in/james-smith-ph-d-8525792b"><img style="width:10%;height:10%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png?20140125013055"></a>
 <a href="https://scholar.google.com/citations?hl=en&user=VfVWPAYAAAAJ"><img style="width:10%;height:10%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/512px-Google_Scholar_logo.svg.png?20200110094142"></a>
 
+## Open Source Work
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/jamesETsmith/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=classic)](https://githubtrends.io)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/jamesETsmith/repos?time_range=one_year&include_private=True&loc_metric=changed&theme=classic)](https://githubtrends.io)
 
+> **Note** Contributions to private repos are not included in the figures above.
