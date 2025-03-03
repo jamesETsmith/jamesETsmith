@@ -1,6 +1,6 @@
 # About Me
 
-Hi, I'm James 👋. Currently, I am an HPC Software Engineer at [Qognitive](https://www.qognitive.io/). I design and implement efficient numerical methods for machine learning and quantum computing algorithms and workflows. Previously, I was a Member of the Technical Staff at [Lucata](https://lucata.com/) where I worked on porting [GraphBLAS](https://graphblas.org/) to Lucata's custom hardware. My work focused on implementing highly parallel linear algebra methods in C/C++. Before that I was a Flatiron Research Fellow in the Center for Computational Quantum Physics at the [Flatiron Institute](https://www.simonsfoundation.org/flatiron/center-for-computational-quantum-physics/) developing more efficient and robust algorithms for quantum chemistry.
+Hi, I'm James 👋. Currently, I am a Research Engineer at [Qognitive](https://www.qognitive.io/). I design and implement efficient numerical methods for machine learning and quantum computing algorithms and workflows. Previously, I was a Member of the Technical Staff at [Lucata](https://lucata.com/) where I worked on porting [GraphBLAS](https://graphblas.org/) to Lucata's custom hardware. My work focused on implementing highly parallel linear algebra methods in C/C++. Before that I was a Flatiron Research Fellow in the Center for Computational Quantum Physics at the [Flatiron Institute](https://www.simonsfoundation.org/flatiron/center-for-computational-quantum-physics/) developing more efficient and robust algorithms for quantum chemistry.
 
 ## Work 🖥️
 
